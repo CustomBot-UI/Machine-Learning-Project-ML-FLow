@@ -278,7 +278,7 @@ Top predictors of mortgage default:
 
 ## 👨‍💻 Author
 
-**[Your Name]**  
+ 
 CustomBot-UI  
 Machine Learning Project — 2026
 
